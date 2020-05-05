@@ -3,11 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rafael.page/categories/</loc>
+    <loc>https://rafael.page/post/hello-world/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rafael.page/post/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rafael.page/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rafael.page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rafael.page/categories/</loc>
   </url>
   
   <url>
