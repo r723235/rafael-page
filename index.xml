@@ -6,27 +6,19 @@
     <description>Recent content on rafael ferreira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rafael.page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello, World!</title>
-      <link>https://rafael.page/post/hello-world/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rafael.page/post/hello-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>about</title>
       <link>https://rafael.page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rafael.page/about/</guid>
-      <description>&lt;p&gt;Hi there!&lt;/p&gt;
+      <description>&lt;p&gt;hi there! my name is &lt;strong&gt;rafael&lt;/strong&gt; 👋🏽 you&amp;rsquo;re welcome to call me &lt;strong&gt;rafa&lt;/strong&gt; or &lt;strong&gt;rafinha&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;i enjoy &lt;em&gt;learning&lt;/em&gt;, &lt;em&gt;building&lt;/em&gt;, and &lt;em&gt;teaching&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;fun fact: one of my quirks is to type in all lower case, with a few exceptions.&lt;/p&gt;
 </description>
     </item>
     
